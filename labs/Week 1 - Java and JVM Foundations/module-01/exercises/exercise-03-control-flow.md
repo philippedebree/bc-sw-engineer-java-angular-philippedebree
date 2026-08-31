@@ -66,7 +66,7 @@ public class ControlFlow {
 
 ## Steps
 
-1. Create `ControlFlow.java` with **New → File**.
+1. Create `completed/ControlFlow.java` with **New → File**.
 2. Fill every `_____` / `// TODO`. Save.
 3. Compile and run:
 
